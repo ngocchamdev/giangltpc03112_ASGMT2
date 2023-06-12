@@ -31,7 +31,7 @@
 						</ul>
 					</div>
 					<p class="phone-no">
-						<i class="anm anm-phone-s"></i> +8999999999
+						<i class="anm anm-phone-s"></i> +84962172357
 					</p>
 				</div>
 				<div class="col-md-1 d-none d-lg-none d-md-block d-lg-block">
@@ -65,7 +65,7 @@
 			<div class="row align-items-center">
 				<!--Desktop Logo-->
 				<div class="logo col-md-2 col-lg-2 d-none d-lg-block">
-					<a style="text-decoration: none;" href="/"><h1 style="font-size:20px; font-weight: 600; color: rgb(39, 39, 39);	">Đặc sản miền trung</h1> </a>
+					<a style="text-decoration: none;" href="/"><h1 style="font-size:20px; font-weight: 600; color: rgb(39, 39, 39);	">Shop Store Care</h1> </a>
 
 					
 				</div>
