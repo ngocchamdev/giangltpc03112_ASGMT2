@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.java6</groupId>
-	<artifactId>PS19246_NguyenHoangPhuc_ASM</artifactId>
+	<artifactId>Giangltpc03112_ASMfinal</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>PS19246_NguyenHoangPhuc_ASM</name>
+	<name>Giangltpc03112_ASMfinal</name>
 	<description>ASM JAVA 6</description>
 	<properties>
 		<java.version>1.8</java.version>
